@@ -1,5 +1,3 @@
----
-
 # 🛡️ Privacy Policy for Dear Days
 
 **Last Updated:** October 28, 2026  
